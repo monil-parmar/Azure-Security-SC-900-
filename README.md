@@ -67,7 +67,7 @@ As a cloud security administrator, I was tasked with configuring and managing se
 ---
 
 ## Certification Context  
-This project directly supports preparation for the **Microsoft Certified: Azure Security Engineer Associate (AZ-500)** certification.
+This project directly supports preparation for the **Microsoft Certified: Azure Security Engineer Associate (SC-900)** certification.
 
 ---
 
